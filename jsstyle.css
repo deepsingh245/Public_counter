@@ -1,0 +1,56 @@
+
+button{
+    background-color: brown;
+    border: 1 solid brown;
+    border-radius: 25px;
+    padding: 10px;
+    color: white;
+    margin: auto;
+}
+
+h1{
+    
+    color: blueviolet;
+
+}
+
+.people{
+    background-color: beige;
+    border: 1 solid black;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    
+}
+
+#increment-btn{
+    background-color: darkred;
+}
+
+
+.color1,.color2,.color3,.color4,.color5,.color6{
+    height: 100px;
+    width: 100px;
+
+}
+.color1{
+    background-color: #ff9d00;
+}
+.color2{
+    background-color: #ffffff;
+}
+.color3{
+    background-color: #ff5b00;
+}
+.color4{
+    background-color: #FFCC00;
+}
+.color5{
+    background-color: #000000;
+}
+.color6{
+    background-color: #7C7C7C;
+}
+body{
+    background-color: ;
+}
